@@ -16,6 +16,10 @@ body{
     display: none;
 }
 
+#city-input{
+    outline: none;
+}
+
 .container{
     background-color: #00b7fffb;
     color: rgb(255, 255, 255);
@@ -74,6 +78,11 @@ body{
 
 #country{
     height: 25px;
+}
+
+#description{
+    font-weight: bold;
+    text-transform: capitalize;
 }
 
 #description-container{
