@@ -8,7 +8,7 @@ const weatherIconElement = document.querySelector("#weather-icon");
 const countryElement = document.querySelector("#country");
 const humidityElement = document.querySelector("#humidity span");
 const windElement = document.querySelector("#wind span");
-const weatherContainer = document.querySelector("#weather-data");
+const weatherContainer = document.querySelector("#weather-data"); 
 
 const getWeatherData = async(city) => {
 
