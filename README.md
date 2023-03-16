@@ -1,1 +1,1 @@
-Projeto simples e prático consumindo APIs sobre o clima e bandeiras de países. Desenvolvido com HTML, CSS e JavaScript.
+Simple and pratical project consuming APIs about weather and country flags. Developed with HTML, CSS and JavaScript / Projeto simples e prático consumindo APIs sobre o clima e bandeira dos países. Desenvolvido com HTML, CSS e JavaScript.
