@@ -1,4 +1,4 @@
-const aK = "";
+const aK = ""; //O código só irá funcionar com a api key
 const cityInput = document.querySelector("#city-input");
 const searchBtn = document.querySelector("#search");
 const cityElement = document.querySelector("#city");
