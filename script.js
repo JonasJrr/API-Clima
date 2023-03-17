@@ -1,4 +1,4 @@
-const aK = "3a3e70f20ba185e9c16f3fa4394eb9c1";
+const aK = "";
 const cityInput = document.querySelector("#city-input");
 const searchBtn = document.querySelector("#search");
 const cityElement = document.querySelector("#city");
