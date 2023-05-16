@@ -1,1 +1,1 @@
-Simple and pratical project consuming APIs about weather and country flags. Developed with HTML, CSS and JavaScript / Projeto simples e prático consumindo APIs sobre o clima e bandeira dos países. Desenvolvido com HTML, CSS e JavaScript.
+Projeto simples e prático consumindo APIs sobre o clima (OpenWeatherAPI) e bandeira dos países (FlagsAPI), desenvolvido com HTML, CSS e JavaScript.
